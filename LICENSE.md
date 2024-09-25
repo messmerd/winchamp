@@ -1,4 +1,4 @@
-# Winamp Collaborative License (WCL) Version 1.0
+# Winamp Collaborative License (WCL) Version 1.1
 
 This License governs the use, modification, and distribution of the Winamp software. 
 By using, Modifying, or distributing this software, you agree to the following terms:
@@ -9,7 +9,7 @@ The Winamp Collaborative License is a free, copyleft license for software and ot
 ## TERMS AND CONDITIONS
 
 ### 1. Definitions
-- "This License" refers to version 1.0 of the Winamp Collaborative License.
+- "This License" refers to version 1.1 of the Winamp Collaborative License.
 - "The Program" refers to any copyrightable work Licensed under this License.
 - "You" refers to each Licensee, whether an individual or organization.
 - "Modify" means to copy from or adapt all or part of the work in a fashion requiring copyright permission, other than the making of an exact copy.
@@ -29,9 +29,9 @@ You are granted the right to Modify the software for private use only. You may m
 - Waiver of Rights: You waive any rights to claim authorship of the contributions or to object to any distortion, mutilation, or other modifications of the contributions.
 
 ### 5. Restrictions
-- No Distribution of Modified Versions: You may not distribute modified versions of the software, whether in source or binary form.
-- No Forking: You may not create, maintain, or distribute a forked version of the software.
-- Official Distribution: Only the maintainers of the official repository are allowed to distribute the software and its modifications.
+- Yes Distribution of Modified Versions: You may distribute modified versions of the software, whether in source or binary form.
+- Yes Forking: You may create, maintain, or distribute a forked version of the software.
+- ~~Official Distribution: Only the maintainers of the official repository are allowed to distribute the software and its modifications.~~ nuh uh
 
 ### 6. No Sublicensing
 Sublicensing is not allowed; section 5 makes it unnecessary.
@@ -77,4 +77,4 @@ You must comply with all applicable laws and regulations in connection with your
 - Severability: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
 By using, Modifying, or contributing to the software, you acknowledge that you have read, understood, and agree to be bound by these terms and conditions.
  
-This custom License aims to maintain the collaborative nature of the project while restricting the distribution of modified versions.
+This custom License aims to maintain the collaborative nature of the project while not restricting the distribution of modified versions.
